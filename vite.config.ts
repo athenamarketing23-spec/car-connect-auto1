@@ -3,7 +3,7 @@ import { defineConfig as defineLovableConfig } from "@lovable.dev/vite-tanstack-
 import react from '@vitejs/plugin-react'
 
 const viteConfig = defineViteConfig({
-  base: '/car-connect-auto/',
+  base: '/car-connect-auto1/',
   plugins: [react()],
   resolve: {
     alias: {
